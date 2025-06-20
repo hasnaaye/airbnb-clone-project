@@ -40,12 +40,12 @@ Secondary Text: Circular, Book (400), 14px<br>
 <strong>DevOps Engineers:</strong>	Manages deployment, CI/CD pipeline, server infrastructure<br>
 <strong>Product Owner:</strong>	Defines requirements, prioritizes features, represents stakeholders<br>
 <strong>Scrum Master:</strong>	Facilitates agile processes, removes blockers, organizes meetings
-<h4>👥 Team Roles</h4>
+<h3>👥 Team Roles</h3>
 Backend Developer: Responsible for implementing API endpoints, database schemas, and business logic.
 Database Administrator: Manages database design, indexing, and optimizations.
 DevOps Engineer: Handles deployment, monitoring, and scaling of the backend services.
 QA Engineer: Ensures the backend functionalities are thoroughly tested and meet quality standards.
-<h4>⚙️ Technology Stack</h4>
+<h3>⚙️ Technology Stack</h3>
 Django: A high-level Python web framework used for building the RESTful API.
 Django REST Framework: Provides tools for creating and managing RESTful APIs.
 PostgreSQL: A powerful relational database used for data storage.
@@ -54,8 +54,8 @@ Celery: For handling asynchronous tasks such as sending notifications or process
 Redis: Used for caching and session management.
 Docker: Containerization tool for consistent development and deployment environments.
 CI/CD Pipelines: Automated pipelines for testing and deploying code changes.
-<h4>Database Design</h4>
-<h4>🛠️ Feature Breakdown</h4>
+<h3>Database Design</h3>
+<h3>🛠️ Feature Breakdown</h3>
 1. API Documentation
 OpenAPI Standard: The backend APIs are documented using the OpenAPI standard to ensure clarity and ease of integration.
 Django REST Framework: Provides a comprehensive RESTful API for handling CRUD operations on user and property data.
@@ -78,8 +78,8 @@ Features: Post and manage reviews for properties.
 7. Database Optimizations
 Indexing: Implement indexes for fast retrieval of frequently accessed data.
 Caching: Use caching strategies to reduce database load and improve performance.
-<h4>API Security</h4>
-<h4>CI/CD Pipeline</h4>
+<h3>API Security</h3>
+<h3>CI/CD Pipeline</h3>
 <h3>UI Component Patterns</h3>
 <h4>Planned Components</h4>
 <ol>
