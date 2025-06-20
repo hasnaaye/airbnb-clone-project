@@ -40,6 +40,21 @@ Secondary Text: Circular, Book (400), 14px<br>
 <strong>DevOps Engineers:</strong>	Manages deployment, CI/CD pipeline, server infrastructure<br>
 <strong>Product Owner:</strong>	Defines requirements, prioritizes features, represents stakeholders<br>
 <strong>Scrum Master:</strong>	Facilitates agile processes, removes blockers, organizes meetings
+<h4>👥 Team Roles</h4>
+Backend Developer: Responsible for implementing API endpoints, database schemas, and business logic.
+Database Administrator: Manages database design, indexing, and optimizations.
+DevOps Engineer: Handles deployment, monitoring, and scaling of the backend services.
+QA Engineer: Ensures the backend functionalities are thoroughly tested and meet quality standards.
+<h4>⚙️ Technology Stack</h4>
+Django: A high-level Python web framework used for building the RESTful API.
+Django REST Framework: Provides tools for creating and managing RESTful APIs.
+PostgreSQL: A powerful relational database used for data storage.
+GraphQL: Allows for flexible and efficient querying of data.
+Celery: For handling asynchronous tasks such as sending notifications or processing payments.
+Redis: Used for caching and session management.
+Docker: Containerization tool for consistent development and deployment environments.
+CI/CD Pipelines: Automated pipelines for testing and deploying code changes.
+<h4>Database Design</h4>
 <h3>UI Component Patterns</h3>
 <h4>Planned Components</h4>
 <ol>
